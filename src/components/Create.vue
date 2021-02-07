@@ -66,6 +66,6 @@ export default {
     .btn-primary {margin-right: 12px;}
     h3 {background-color:white;}
     body {background-color:grey;}
-    label {color: white;}
+    label {color: black;}
     tbody {color:white;}
 </style>
