@@ -54,7 +54,8 @@ export default {
         this.subscription.name = ''
         this.subscription.description = ''
         this.subscription.amount = ''
-        this.subscription.date = ''
+        this.subscription.date_of_purchase = ''
+        this.subscription.date_of_renewal = ''
       }).catch((error) => {
         console.log(error)
       })
