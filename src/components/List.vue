@@ -74,5 +74,5 @@ export default {
     h3 {background-color:white;}
     body {background-color:grey;}
     label {color: black;}
-    tbody {color:white;}
+    tbody {color:black;}
 </style>
